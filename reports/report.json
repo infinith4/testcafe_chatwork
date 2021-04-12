@@ -1,0 +1,30 @@
+{
+  "startTime": "2021-04-12T13:52:42.100Z",
+  "endTime": "2021-04-12T13:52:47.368Z",
+  "userAgents": [
+    "Chrome 89.0.4389.114 / macOS 10.15.7"
+  ],
+  "passed": 1,
+  "total": 1,
+  "skipped": 0,
+  "fixtures": [
+    {
+      "name": "My fixture",
+      "path": "/Users/maccat/projects/github/tys-hiroshi/testcafe_chatwork/testcafe/test_screenshots.ts",
+      "meta": {},
+      "tests": [
+        {
+          "name": "Take a screenshot of a fieldset",
+          "meta": {},
+          "errs": [],
+          "durationMs": 5239,
+          "screenshotPath": "/Users/maccat/projects/github/tys-hiroshi/testcafe_chatwork/screenshots/2021-04-12_22-52-41/test-1/Chrome_89.0.4389.114_macOS_10.15.7/1.png",
+          "skipped": false
+        }
+      ]
+    }
+  ],
+  "warnings": [
+    "The 'tsConfigPath' option is deprecated and will be removed in the next major release. Use the 'compilerOptions.typescript.configPath' option instead."
+  ]
+}
