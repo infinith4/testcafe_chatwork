@@ -15,7 +15,7 @@
     "@types/log4js": "^2.3.5",
     "log4js": "^6.3.0",
     "prettier": "2.1.2",
-    "testcafe": "^1.9.4",
+    "testcafe": "^1.14.0",
     "tslint-config-prettier": "^1.18.0",
     "tslint-plugin-prettier": "^2.3.0"
   },

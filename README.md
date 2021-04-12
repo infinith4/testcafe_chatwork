@@ -96,7 +96,7 @@ npm install testcafe --save-dev
 ### Opening Testcafe
 
 ```
-npx testcafe chrome ./testcafe/hogehoge.ts
+npx testcafe chrome ./testcafe/test_runner.ts
 ```
 
 (recommend this command in windows)
